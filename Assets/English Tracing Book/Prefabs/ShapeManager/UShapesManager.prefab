@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1021580944424370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4565757463519754}
+  - component: {fileID: 114570839383762358}
+  m_Layer: 5
+  m_Name: UShapesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4565757463519754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021580944424370}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114570839383762358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021580944424370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a276494aba161438d5def8e1b5ecbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapes:
+  - showContents: 1
+    gamePrefab: {fileID: 106004, guid: 33a7d012ae79a8f419a9a1cf44b217d7, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 109820, guid: 53dfe29837f1f924398ae4d339224bf5, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 126064, guid: d9d972803b62c2d41bcbfc78e776df59, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 118260, guid: 3a2532f7ecae6ce4d9fadad9d93de3be, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 116472, guid: b19d4f83078447d46989321ef352872d, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 117004, guid: 5121b500cda18ec469580baf3d4650f8, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 174652, guid: 5e64bc3e0d0a08d47bf4674ced5b53a8, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 142508, guid: 8ac7caaad7833384780438c5c4839e30, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 114768, guid: f6b4116ee7b07754eb131f04865682a0, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 170718, guid: 3a10b74f0a1572942a630eeaf699e9d2, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 112142, guid: e8ad36423ae67404882c4edbd4546cc0, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 101260, guid: 0b626b2873e31904fa1eaa1b45477c47, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 192834, guid: 480ae05207d919c478d2acb451abc40f, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 188672, guid: 30826e48a58f87944a168f0276bbc500, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 195314, guid: e6828751b7da740479bf4bad956ec10f, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 147828, guid: 96d97dc104fc1854d8c08caf457cad47, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 149742, guid: e79f340e97de3034cbc9fc8a28a35d4e, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 144870, guid: dc90048802abafa40becddc494c10d75, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 168716, guid: 9b134fb3570dec64c8eb8167e763e5a8, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 175826, guid: 17ebe239039292a4b940afab91f2c880, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 166240, guid: 197f50b91359e764faf2d0980b850148, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 131440, guid: 067b3be30d86c954fb93cfdaee2b8abe, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 136802, guid: 731c7bdfda176f64c8f75d2e66ec3e5b, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 176962, guid: aeb36db06e2917747ab4cb0f4e7e7c71, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 195470, guid: ddb92a038b5b83849bb8744dac915bdb, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 192712, guid: bb1b94b358bce7a49ae57cf6108dbb38, type: 3}
+    picture: {fileID: 0}
+  shapeLabel: Letter
+  shapePrefix: Uppercase
+  sceneName: UppercaseAlbum
+  lastSelectedGroup: 0

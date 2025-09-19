@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &185084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 442900}
+  - component: {fileID: 11492436}
+  m_Layer: 5
+  m_Name: NShapesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &442900
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185084}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11492436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a276494aba161438d5def8e1b5ecbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapes:
+  - showContents: 1
+    gamePrefab: {fileID: 1000012484534612, guid: 3c511718c38f80a4b843f11af4af570e, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000013760571478, guid: 7eb80a0588cef934cbfc5df267fb35ed, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000013799535916, guid: 146910e500ca6ee48bb595e6b167384d, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000014057399524, guid: 6af6db0c2a4d5f24e9d60abcca3ae25f, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000010344592708, guid: 02aeb03ae6c127042a4d1e4dddf7e402, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000012644794086, guid: 533cc3fb71aa7a34893148d1cedf58ec, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000012460688630, guid: 0786c6ca4a287f54ab651321dd42e559, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000014166049968, guid: 0b8afc7c6a73cdb469d0201f62deadec, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000013731006328, guid: d47b9395a0985f74597d95336ef396b9, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1000010412356178, guid: 98b98174919b60e46a776ed20d1dfc3c, type: 3}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1207033524096976, guid: d57bdb69d2e0fa84d8fd19ac9f573e94, type: 3}
+    picture: {fileID: 0}
+  shapeLabel: Number
+  shapePrefix: Number
+  sceneName: NumbersAlbum
+  lastSelectedGroup: 0

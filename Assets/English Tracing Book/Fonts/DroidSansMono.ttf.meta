@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5a9882fd63325b541b96761753e87f0a
+timeCreated: 1480161409
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Droid Sans Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 928f503de488e44408a8625d75d54c61, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
