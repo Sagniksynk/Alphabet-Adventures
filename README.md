@@ -18,7 +18,7 @@ This project is based on the "English Tracing Book" asset from the Unity Asset S
 ### ✨ Live Demo
 
 You can play a live version of the game on itch.io:
-**[➡️ Play Letter Tracer Now!](https://your-username.itch.io/your-game-name)** *(Replace this with the link to your itch.io page!)*
+**[➡️ Play Alphabet Adventures Now!](https://sagniksynk.itch.io/alphabet-adventures)** *(Replace this with the link to your itch.io page!)*
 
 ---
 
