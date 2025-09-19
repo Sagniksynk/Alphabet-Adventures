@@ -7,13 +7,7 @@ A fun and interactive educational game for kids to learn how to trace letters, n
 
 ## 🎮 About The Game
 
-**Letter Tracer** is an educational game designed to help children learn the fundamentals of writing. Players use their mouse to follow guided paths, tracing uppercase letters, lowercase letters, numbers, and complete sentences. The game provides audio feedback for each character and rewards faster completion with a star-based rating system, encouraging practice and improvement.
-
-This project is based on the "English Tracing Book" asset from the Unity Asset Store, but has been significantly modified to:
-- Update obsolete code for modern Unity versions.
-- Remove all third-party ad functionality.
-- Add a progress reset feature.
-- Build and deploy for the web via WebGL.
+**Alphabet Adventures** is an educational game designed to help children learn the fundamentals of writing. Players use their mouse to follow guided paths, tracing uppercase letters, lowercase letters, numbers, and complete sentences. The game provides audio feedback for each character and rewards faster completion with a star-based rating system, encouraging practice and improvement.
 
 ### ✨ Live Demo
 
